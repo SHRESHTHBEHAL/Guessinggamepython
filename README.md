@@ -18,4 +18,5 @@ def check_guess(secret, guess):
         return "🎉 Correct!"
     return "⬆️ Higher!" if guess < secret else "⬇️ Lower!"
 
+```
 Developed with ❤️ by Shreshth Behal 
